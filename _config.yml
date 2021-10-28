@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+title: Dominika Hájková
+navbar-links:
+  CV: "/CVHajkova.pdf"
